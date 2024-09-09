@@ -1,0 +1,56 @@
+[
+  {
+    "breedId": "B101",
+    "breedName": "Golden Retriever",
+    "description": "Friendly, intelligent, and devoted. Great family dog.",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Scotland",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B102",
+    "breedName": "German Shepherd",
+    "description": "Confident, courageous, and smart. Excellent working dog.",
+    "size": "Large",
+    "lifespan": "9-13 years",
+    "origin": "Germany",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B103",
+    "breedName": "Labrador Retriever",
+    "description": "Outgoing, even-tempered, and gentle. America's favorite breed.",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Canada",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B104",
+    "breedName": "Beagle",
+    "description": "Friendly, curious, and merry. Great with children.",
+    "size": "Small to Medium",
+    "lifespan": "10-15 years",
+    "origin": "England",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B105",
+    "breedName": "Poodle",
+    "description": "Intelligent, active, and elegant. Comes in three sizes.",
+    "size": "small",
+    "lifespan": "10-18 years",
+    "origin": "Germany/France",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B106",
+    "breedName": "Siberian Husky",
+    "description": "Friendly, outgoing, and athletic. Built for endurance.",
+    "size": "Medium",
+    "lifespan": "12-14 years",
+    "origin": "Siberia",
+    "imageUrl": "https://dog.ceo/api/img/retriever-golden/n02099601_3004.jpg"
+  }
+]
